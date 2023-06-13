@@ -23,16 +23,16 @@ Concluído
 
 <div align="center">
   <a href="./img/01.png">
-    <img img="./img/01.png" alt="Imagem 01" width="250" height="250" class="img-thumbnail"/>
+    <img src="./img/01.png" alt="Imagem 01" width="250" height="250" class="img-thumbnail"/>
   </a>
   <a href="./img/02.png">
-    <img img="./img/02.png" alt="Imagem 02" width="250" height="250" class="img-thumbnail"/>
+    <img src="./img/02.png" alt="Imagem 02" width="250" height="250" class="img-thumbnail"/>
   </a>
   <a href="./img/03.png">
-    <img img="./img/03.png" alt="Imagem 03" width="250" height="250" class="img-thumbnail"/>
+    <img src="./img/03.png" alt="Imagem 03" width="250" height="250" class="img-thumbnail"/>
   </a>
   <a href="./img/04.png">
-    <img img="./img/04.png" alt="Imagem 04" width="250" height="250" class="img-thumbnail"/>
+    <img src="./img/04.png" alt="Imagem 04" width="250" height="250" class="img-thumbnail"/>
   </a>
 </div>
 
